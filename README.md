@@ -1,0 +1,2 @@
+# generic-post
+Generic Post
